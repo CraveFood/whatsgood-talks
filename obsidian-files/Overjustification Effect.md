@@ -1,0 +1,1 @@
+[[Motivação Extrínseca]] interfere na [[Motivação Intrínseca]] pois diminui os comportamentos intrínsecos por conta dos estímulos externos

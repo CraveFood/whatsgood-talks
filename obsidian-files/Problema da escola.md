@@ -1,0 +1,1 @@
+Após terminar a escola, não tem mais ninguém te "guiando" a aprender ago
