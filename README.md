@@ -4,7 +4,7 @@ Aqui reunimos todos os arquivos das nossas WhatsGood Talks que é um espaço que
 
 ## Visualizando os arquivos
 
-Os arquivos contidos no diretório [obidian-files](https://github.com/CraveFood/whatsgood-talks/blob/main/obsidian-files/) são melhor aproveitados usando o [Obsidian](https://obsidian.md/) ou similares para leitura
+Os arquivos contidos no diretório [obsidian-files](https://github.com/CraveFood/whatsgood-talks/blob/main/obsidian-files/) são melhor aproveitados usando o [Obsidian](https://obsidian.md/) ou similares para leitura
 
 ## Talks
 
