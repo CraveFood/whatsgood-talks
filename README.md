@@ -10,7 +10,6 @@ Os arquivos contidos no diretório [obsidian-files](https://github.com/CraveFood
 
 - Motivação e Aprendizado - parte 1
   - [Arquivos](https://github.com/CraveFood/whatsgood-talks/blob/main/obsidian-files/1%20-%20MOC%20Motiva%C3%A7%C3%A3o%20e%20aprendizado.md)
-  - [Link youtube](https://youtu.be/yuVvR2R6J3k)
 
 ## Blog
 
