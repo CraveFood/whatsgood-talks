@@ -1,4 +1,7 @@
 [[1 - MOC Motivação e aprendizado]]
 
-O que é?
-Como funciona?
+# Definição
+Motivo + ação: motivo para agir
+
+# Como funciona
+Se conecta lembrando do motivo > [[Cartão de enfrentamento]]

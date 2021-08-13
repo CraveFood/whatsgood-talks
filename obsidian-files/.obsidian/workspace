@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "b11d12b85018bd97",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c950f24293c740",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fea9ed317cfa7d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "900793fe5b1dc416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fc12016c2ff78a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4d10912d4809b1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91f352ff5e658ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b7fe824c13bc865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ff6407b6674ecb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da5aeab421d66065",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f8c950f24293c740",
+  "lastOpenFiles": [
+    "1 - MOC Motivação e aprendizado.md",
+    "Recompensas.md",
+    "Motivação Extrínseca.md",
+    "Adaptação hedónica.md",
+    "Motivação Intrínseca.md",
+    "FOMO.md",
+    "Motivação.md",
+    "Cartão de enfrentamento.md",
+    "Ler. Reflitir. Agir.md",
+    "Obesidade mental.md"
+  ]
+}

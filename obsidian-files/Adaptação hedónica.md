@@ -1,0 +1,1 @@
+Sempre voltamos a um nível mediano/estável de felicidade
